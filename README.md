@@ -1,2 +1,2 @@
 # hello-world
-some repository
+i like cats, coffee and coding
